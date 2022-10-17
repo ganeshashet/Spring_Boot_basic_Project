@@ -1,0 +1,9 @@
+package com.Controller;
+
+public class HelloController {
+	public String SayHai()
+	{
+		return ("hello User");
+	}
+
+}

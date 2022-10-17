@@ -1,0 +1,9 @@
+package com.Springexample;
+
+public class Read {
+	public void Display()
+	{
+		System.out.println("Hello i am Reading a book...");
+	}
+
+}
