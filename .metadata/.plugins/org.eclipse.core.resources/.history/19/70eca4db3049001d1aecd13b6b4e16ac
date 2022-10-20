@@ -1,9 +1,0 @@
-package com.example.demo;
-
-public class Laptop {
-	public void Give()
-	{
-		System.out.println("ready to give laptop");
-	}
-
-}

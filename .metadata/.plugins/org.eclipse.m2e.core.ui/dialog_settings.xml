@@ -26,6 +26,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.SpringtoDerby"/>
 			<item value="com.SpringtoRest"/>
 			<item value="com.Springexample"/>
 		</list>
@@ -33,6 +34,7 @@
 			<item value="com"/>
 		</list>
 		<list key="artifactId">
+			<item value="SpringtoDerby"/>
 			<item value="SpringtoRest"/>
 			<item value="Springexample"/>
 		</list>

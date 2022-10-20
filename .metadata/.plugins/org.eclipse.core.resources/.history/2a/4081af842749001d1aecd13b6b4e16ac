@@ -1,6 +1,0 @@
-package com.example.demo;
-
-public class programmer {
-	System.out.println("hello");
-
-}
